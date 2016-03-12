@@ -23,7 +23,7 @@ color:
     - '#fefefe'
     - '#41403b'
   brandStrength: 0
-  lightness: 0.625
-  saturation: 0.5
+  lightness: 0.4375
+  saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
