@@ -5,9 +5,12 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T23:07:51.397Z'
-dateModified: '2016-03-12T23:07:41.413Z'
+description: |-
+  Neueste Versorgungstechnik - Energieeffizientte
+  (Biomasse) Zentral Heizung, Solarzellen betriebenes Warmwasser
+  System, Zentrales Kühlsystem
+datePublished: '2016-03-12T23:11:14.537Z'
+dateModified: '2016-03-12T23:11:08.085Z'
 title: |-
   Hochwertige Materialien – sorgfältig
   aufeinander abgestimmt
@@ -29,6 +32,6 @@ _type: Article
 # Hochwertige Materialien -- sorgfältig
 aufeinander abgestimmt
 
-Neueste Versorgungstechnik - Energieeffizientte
-(Biomasse) Zentral Heizung, Solarzellen betriebenes Warmwasser
+Energieeffizientte
+(Biomasse) Zentral-Heizung, Solarzellen betriebenes Warmwasser
 System, Zentrales Kühlsystem
