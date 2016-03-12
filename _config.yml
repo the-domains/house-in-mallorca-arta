@@ -1,7 +1,7 @@
 name: house-in-mallorca-arta
 favicon: null
-layout_spectrum: 0.6196468286216259
-typography_spectrum: 0.43415022385306656
+layout_spectrum: 1
+typography_spectrum: 0.15569
 title: House in Mallorca-Artá for Sale
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.769960988778621
-  lightness: 0.47112338966690004
-  saturation: 0.41730481712147593
-  rhythmicContrast: 0.0010753320530056953
+    - '#8bb1d8'
+    - '#356596'
+    - '#111214'
+    - '#fefefe'
+    - '#41403b'
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
