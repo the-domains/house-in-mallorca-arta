@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T21:20:21.452Z'
-dateModified: '2016-03-12T21:20:00.368Z'
+datePublished: '2016-03-12T21:33:19.205Z'
+dateModified: '2016-03-12T21:32:06.890Z'
 title: |-
   Totalsaniertes
   Bijou: Mallorquinisches Haus im Herzen des historischen Zentrums von
   Artà.
 author: []
+sourcePath: _posts/2016-03-12-totalsaniertes-bijou-mallorquinisches-haus-im-herzen-des-hi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-totalsaniertes-bijou-mallorquinisches-haus-im-herzen-des-hi.md
-published: true
 url: totalsaniertes-bijou-mallorquinisches-haus-im-herzen-des-hi/index.html
 _type: Article
 
@@ -53,4 +53,10 @@ Materialien**-- sorgfältig aufeinander abgestimmt
 **Neueste
 Versorgungstechnik**- Energieeffizientte (Biomasse)
 Zentral Heizung, Solarzellen betriebenes Warmwasser System, Zentrales
-Kühlsystem
+Kühlsystem 
+
+Von Privat zu verkaufen. Preis: 1.180.000 € 
+
+contact@house-in-mallorca-arta.com
+
+contact@house-in-mallorca-arta.com
